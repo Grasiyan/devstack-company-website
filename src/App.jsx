@@ -494,7 +494,7 @@ const ModernITWebsite = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-gray-900">Email Us</div>
-                    <div className="text-gray-600">support@devstack.com</div>
+                    <div className="text-gray-600">support@devstack.co.in</div>
                   </div>
                 </div>
 
